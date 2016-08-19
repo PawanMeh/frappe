@@ -10,7 +10,7 @@ Since these reports give you unrestricted access via Python scripts, they can on
 
 ### 1. Create a new Report
 
-![Query Report](/assets/frappe_io/images/how-to/script-report.png)
+![Query Report](/assets/img/script-report.png)
 
 1. Set Report Type as "Script Report"
 1. Set "Is Standard" as "Yes"
